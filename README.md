@@ -4,7 +4,8 @@ Analyzing & Reporting Vrinda store data in MS Excel
 
 ### Introduction
 
-We have been given the **Raw Sales data** of Vrinda Store through various E-Commerce Channels. We are asked to present a report on Sales data so as to analyze different parameters.
+- We have been given the **Raw Sales data** of Vrinda Store through various E-Commerce Channels. We are asked to present a report on Sales data so as to analyze different parameters.
+- We have performed **Data Cleaning and Processing** and made various Pivot Charts to analyze each parameter closely.
 
 ### Objectives
 
